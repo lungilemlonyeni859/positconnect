@@ -1,11 +1,7 @@
-faicons
-shiny
-shinywidgets
-plotly
-pandas
-ridgeplot
-scipy
+scipy==1.8.0
+pandas>=1.4.1
 numpy
+shiny
 pyppeteer
 tabulate
 selenium
